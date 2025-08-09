@@ -1,0 +1,22 @@
+# Large datasets - don't upload to GitHub
+data/gtzan/Data/
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Model files (optional - these are small enough)
+# models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
