@@ -19,4 +19,8 @@ Thumbs.db
 
 # Temporary files
 *.log
-*.tmp
+*.tmp"" 
+"# Large datasets - keep local only" 
+"data/deam/" 
+"data/gtzan/Data/" 
+"*.zip" 
